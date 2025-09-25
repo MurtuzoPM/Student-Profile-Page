@@ -12,9 +12,9 @@ This is a simple **HTML Student Profile Page** created as part of **Assignment 1
 - Uses **semantic HTML tags** (`<header>`, `<main>`, `<footer>`)
 
 ## 🖼️ Preview
-![alt text](image.png)
+![Student Profile Screenshot](https://via.placeholder.com/600x300)
 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-profile-page.git
+   git clone https://github.com/MurtuzoPM/student-profile-page.git
