@@ -12,8 +12,8 @@ This is a simple **HTML Student Profile Page** created as part of **Assignment 1
 - Uses **semantic HTML tags** (`<header>`, `<main>`, `<footer>`)
 
 ## 🖼️ Preview
-![Student Profile Screenshot](![Uploading image.png…]()
-)
+![Uploading image.png…]()
+
 
 ## 🚀 How to Run
 1. Clone this repository:
