@@ -12,7 +12,7 @@ This is a simple **HTML Student Profile Page** created as part of **Assignment 1
 - Uses **semantic HTML tags** (`<header>`, `<main>`, `<footer>`)
 
 ## 🖼️ Preview
-![Student Profile Screenshot](https://via.placeholder.com/600x300)
+![alt text](image.png)
 
 ## 🚀 How to Run
 1. Clone this repository:
